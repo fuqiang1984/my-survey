@@ -1,88 +1,93 @@
 var quizQuestions = [
   {
-      question: "What franchise would you rather play a game from?",
+      question: "5 X 9=",
       answers: [
           {
               type: "Microsoft",
-              content: "Halo"
+              content: "45"
           },
           {
               type: "Nintendo",
-              content: "Pokemon"
+              content: "35"
           },
           {
               type: "Sony",
-              content: "Uncharted"
+              content: "25"
           }
-      ]
+      ],
+      correctanswer:"45"
   },
   {
-      question: "Which console would you prefer to play with friends?",
+      question: "7 X 9=",
       answers: [
           {
               type: "Microsoft",
-              content: "X-Box"
+              content: "29"
           },
           {
               type: "Nintendo",
-              content: "Nintendo 64"
+              content: "63"
           },
           {
               type: "Sony",
-              content: "Playstation 1"
+              content: "42"
           }
-      ]
+      ],
+      correctanswer:"63"
   },
   {
-      question: "Which of these racing franchises would you prefer to play a game from?",
+      question: "6 X 8=",
       answers: [
           {
               type: "Microsoft",
-              content: "Forza"
+              content: "34"
           },
           {
               type: "Nintendo",
-              content: "Mario Kart"
+              content: "22"
           },
           {
               type: "Sony",
-              content: "Gran Turismo"
+              content: "48"
           }
-      ]
+      ],
+      correctanswer:"48"
   },
   {
-      question: "Which of these games do you think is best?",
+      question: "2 X 9=",
       answers: [
           {
               type: "Microsoft",
-              content: "BioShock"
+              content: "20"
           },
           {
               type: "Nintendo",
-              content: "The Legend of Zelda: Ocarina of Time"
+              content: "18"
           },
           {
               type: "Sony",
-              content: "Final Fantasy VII"
+              content: "25"
           }
-      ]
+      ],
+      correctanswer:"18"
   },
   {
-      question: "What console would you prefer to own?",
+      question: "7 X 8= ",
       answers: [
           {
               type: "Microsoft",
-              content: "X-Box One"
+              content: "32"
           },
           {
               type: "Nintendo",
-              content: "Wii U"
+              content: "56"
           },
           {
               type: "Sony",
-              content: "Playstation 4"
+              content: "27"
           }
-      ]
+      ],
+      correctanswer:"56"
   }
 ];
 
